@@ -1,0 +1,22 @@
+/* General Page Styles */
+/* Setting page height to keep footer at bottom. */
+html {
+    height: 100%;
+}
+
+/* Heading Styles */
+h1.navbar-brand.mb-0 {
+    font-size: 25px;
+}
+
+form.form-inline.my-2.my-lg-0.container.justify-content-end {
+    max-width: 350px;
+}
+
+input.form-control.mr-sm-2 {
+    width: 255px;
+}
+
+button.btn.btn-outline-primary.my-2.my-sm-0 {
+    width: 75px;
+}
