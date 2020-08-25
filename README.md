@@ -1,1 +1,7 @@
-# open-weather-dashboard
+# Open Weather Dashboard
+
+## Description
+
+## Screenshot
+
+## Link
